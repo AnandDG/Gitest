@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/NewScene1/Lightmap-0_comp_light.exr.meta
 guid: 876b2e0696cec31408d06d4e8306966b
 timeCreated: 1489577600
+=======
+guid: 27d7edbc220b95e45a192f8453d7958d
+timeCreated: 1489577782
+>>>>>>> origin/master:Assets/gittestunity/Lightmap-0_comp_light.exr.meta
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}

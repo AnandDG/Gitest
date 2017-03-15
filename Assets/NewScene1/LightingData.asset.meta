@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/NewScene1/LightingData.asset.meta
 guid: 9874d9dc1cc12564b85eab14d30fd57e
 timeCreated: 1489577601
+=======
+guid: 3bdeab98b8e31a54ebde1201048d2ce8
+timeCreated: 1489577783
+>>>>>>> origin/master:Assets/gittestunity/LightingData.asset.meta
 licenseType: Free
 NativeFormatImporter:
   userData: 

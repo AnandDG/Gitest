@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/NewScene1/Lightmap-0_comp_dir.png.meta
 guid: e620f64f5c320d747928a21dd04344a3
 timeCreated: 1489577600
+=======
+guid: 9fdb41323881b854398505b117fc3fc2
+timeCreated: 1489577782
+>>>>>>> origin/master:Assets/gittestunity/Lightmap-0_comp_dir.png.meta
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
